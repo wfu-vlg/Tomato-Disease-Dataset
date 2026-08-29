@@ -5,4 +5,4 @@ The dataset contains a total of 3,362 images, including 2,690 training images, 3
 
 All images were annotated with bounding boxes using the LabelImg tool, indicating the location and category of tomato diseases. The annotations were manually verified to ensure accuracy and consistency. The dataset is provided in YOLO object detection format for model training and evaluation.
 
-Dataset link: https://pan.baidu.com/s/1lsO_F7aSbJtNe0ssYvsxpA?pwd=TDD1
+Dataset link: https://pan.baidu.com/s/1vxaxA1bavlFaVsUpAOeefA?pwd=TDD1
